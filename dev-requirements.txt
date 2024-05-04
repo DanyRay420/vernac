@@ -104,7 +104,7 @@ stack-data==0.6.2
     # via ipython
 tomli-w==1.0.0
     # via vernac (pyproject.toml)
-tqdm==4.65.0
+tqdm==4.66.3
     # via openai
 traitlets==5.9.0
     # via
