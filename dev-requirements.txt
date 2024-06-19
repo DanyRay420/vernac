@@ -110,7 +110,7 @@ traitlets==5.9.0
     # via
     #   ipython
     #   matplotlib-inline
-urllib3==1.26.15
+urllib3==1.26.19
     # via requests
 wcwidth==0.2.6
     # via prompt-toolkit
